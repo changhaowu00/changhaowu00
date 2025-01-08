@@ -30,16 +30,15 @@ I'm a passionate **Software Engineer** based in the Greater Madrid Metropolitan 
 
 ## 📫 Get in Touch!
 
-- 💌 [Email me](mailto:changhaowu00@gmail.com)
 - 🔗 [LinkedIn Profile](https://www.linkedin.com/in/changhao-wu)
-- 🌍 Based in Getafe, Madrid
+- 🌍 Based in Spain
 
 ---
 
 ## 🔧 Skills
 
 - **Programming & Tools**: Python, Java, SQL, AWS, Git, Angular
-- **Core Competencies**: Data Analysis, Machine Learning, Backend Development
+- **Core Competencies**: Backend Development
 - **Languages**: English (Full Professional), Spanish (Native/Bilingual), Chinese (Native/Bilingual), German (Elementary)
 
 ---
