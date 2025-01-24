@@ -32,6 +32,7 @@
 &nbsp;
 
 <h2 align="left">🔧 Skills</h2>
+
 - **Core Competencies**: Backend Development, Data Analysis  
 - **Languages**: English (Full Professional), Spanish (Native/Bilingual), Chinese (Native/Bilingual), German (Elementary)  
 
